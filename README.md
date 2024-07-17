@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
 |  |
