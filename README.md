@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -94,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
