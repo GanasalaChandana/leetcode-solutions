@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0647-palindromic-substrings](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1036-rotting-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
