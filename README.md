@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0838-design-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0838-design-linked-list) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -157,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
