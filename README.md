@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1036-rotting-oranges](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1511-count-number-of-teams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 ## Hash Table
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1511-count-number-of-teams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 ## Matrix
