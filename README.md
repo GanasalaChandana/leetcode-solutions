@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0647-palindromic-substrings](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1511-count-number-of-teams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
 | ------- |
