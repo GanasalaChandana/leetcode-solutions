@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0095-unique-binary-search-trees-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Iterator
 |  |
