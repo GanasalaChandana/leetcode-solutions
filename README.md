@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0322-coin-change) |
 | [1036-rotting-oranges](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1511-count-number-of-teams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Reservoir Sampling
 |  |
 | ------- |
