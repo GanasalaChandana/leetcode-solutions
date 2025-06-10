@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0268-missing-number) |
