@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0382-linked-list-random-node) |
