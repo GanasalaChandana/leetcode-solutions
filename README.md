@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1511-count-number-of-teams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1511-count-number-of-teams) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
