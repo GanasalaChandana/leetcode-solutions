@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0268-missing-number) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1036-rotting-oranges](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Backtracking
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0212-word-search-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Iterator
 |  |
@@ -477,4 +481,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
