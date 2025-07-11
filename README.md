@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0055-jump-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0212-word-search-ii) |
