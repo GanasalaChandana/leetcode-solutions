@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -516,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
