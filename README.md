@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1395-minimum-time-visiting-all-points](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1511-count-number-of-teams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1511-count-number-of-teams) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [1014-k-closest-points-to-origin](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Reservoir Sampling
 |  |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
