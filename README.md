@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
