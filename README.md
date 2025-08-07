@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1511-count-number-of-teams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1511-count-number-of-teams) |
+| [2195-time-needed-to-buy-tickets](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [2195-time-needed-to-buy-tickets](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting Sort
 |  |
 | ------- |
@@ -578,4 +580,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [2195-time-needed-to-buy-tickets](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
