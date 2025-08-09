@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Tree
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
