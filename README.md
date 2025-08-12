@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0875-longest-mountain-in-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0875-longest-mountain-in-array) |
 | [1014-k-closest-points-to-origin](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
