@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## String Matching
 |  |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2195-time-needed-to-buy-tickets](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Shortest Path
 |  |
