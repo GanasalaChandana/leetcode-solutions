@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0931-maximum-frequency-stack](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0931-maximum-frequency-stack](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0838-design-linked-list) |
+| [0931-maximum-frequency-stack](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 ## Math
 |  |
 | ------- |
@@ -674,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
