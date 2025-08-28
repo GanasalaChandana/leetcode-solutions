@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0875-longest-mountain-in-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0875-longest-mountain-in-array) |
 | [1014-k-closest-points-to-origin](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 ## Math
 |  |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [2195-time-needed-to-buy-tickets](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Shortest Path
 |  |
