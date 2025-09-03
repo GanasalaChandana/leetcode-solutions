@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0904-leaf-similar-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0875-longest-mountain-in-array) |
 | [0930-all-possible-full-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0930-all-possible-full-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1008-binary-tree-cameras) |
 | [1511-count-number-of-teams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
