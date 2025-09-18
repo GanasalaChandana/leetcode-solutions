@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0875-longest-mountain-in-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0875-longest-mountain-in-array) |
+| [0907-koko-eating-bananas](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0907-koko-eating-bananas](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Tree
