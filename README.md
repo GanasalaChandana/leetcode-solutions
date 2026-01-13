@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [1014-k-closest-points-to-origin](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 ## Tree
 |  |
