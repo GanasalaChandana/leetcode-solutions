@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0091-decode-ways) |
