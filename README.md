@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Sorting
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Backtracking
