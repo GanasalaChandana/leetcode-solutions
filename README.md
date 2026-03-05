@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0190-reverse-bits) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0682-baseball-game) |
