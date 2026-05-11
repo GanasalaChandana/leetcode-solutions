@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0648-replace-words) |
 | [0800-letter-case-permutation](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0800-letter-case-permutation) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
