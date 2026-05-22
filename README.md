@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 | [2195-time-needed-to-buy-tickets](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [0981-time-based-key-value-store](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0648-replace-words) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Combinatorics
 |  |
 | ------- |
