@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
