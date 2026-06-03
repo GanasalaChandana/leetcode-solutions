@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0931-maximum-frequency-stack](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1731-even-odd-tree) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1731-even-odd-tree) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-snakes-and-ladders](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1731-even-odd-tree) |
 ## Divide and Conquer
