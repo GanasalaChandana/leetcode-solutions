@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1499-maximum-performance-of-a-team](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -739,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1499-maximum-performance-of-a-team](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GanasalaChandana/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
